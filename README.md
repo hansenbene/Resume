@@ -1,3 +1,3 @@
-### welcome to my resume
+## welcome to my resume
 
-# sample text
+### sample text
