@@ -1,1 +1,1 @@
-<h1 textalign="center"> Welcome to my Resume </h1>
+<h1 align="center"> Welcome to my Resume </h1>
