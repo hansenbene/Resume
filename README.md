@@ -1,3 +1,1 @@
-## welcome to my resume
-
-### sample text
+<h1 textalign="center"> Welcome to my Resume </h1>
