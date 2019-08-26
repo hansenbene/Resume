@@ -1,2 +1,3 @@
-### Resume
-# Welcome to my resume
+# Resume
+### Welcome to my resume
+
